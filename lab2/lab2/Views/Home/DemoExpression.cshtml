@@ -1,0 +1,38 @@
+﻿@model lab2.Models.Club
+
+@{
+    Layout = "~/Views/Shared/_BasicLayout.cshtml";
+
+    ViewBag.Title = "DemoExpression";
+}
+<table>
+    <thead>
+        <tr><th>Property</th><th>Value</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Name</td><td>@Model.Name</td></tr>
+        <tr><td>Price</td><td>@Model.Price</td></tr>
+        <tr>
+            <td>Players:</td>
+            <td>
+                @if (ViewBag.PlayerCount < 11)
+                {
+                    <b>Team can't play there are only (@ViewBag.PlayerCount)</b>
+
+                }
+                else if (ViewBag.PlayerCount == 11)
+                {
+                    <b>Team can play but no players for change</b>
+                }
+                else
+                {
+                    <b>There are planty of players (@ViewBag.PlayerCount)</b>
+                }
+            </td>
+        </tr>
+         National:
+        <input type="checkbox" checked="@ViewBag.National" />
+        Foreign:
+        <input type="checkbox" checked="@ViewBag.Foreign" />
+    </tbody>
+</table>
