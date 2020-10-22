@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Страхова компанія</title>
+</head>
+<body>
+    <div>
+        <h3>Види страхувань</h3>
+        <table>
+            <tr>
+                <td><p>Назва виду страхування</p></td>
+                <td><p>Цiна</p></td>
+                <td></td>
+            </tr>
+           
+            @foreach (var b in ViewBag.Types)
+            {
+                <tr>
+                    <td><p>@b.Name</p></td>
+                    <td><p>@b.Price</p></td>
+                    <td><p><a href="/Home/Buy/@b.Id">Купити</a></p></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
