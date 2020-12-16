@@ -1,0 +1,48 @@
+﻿@model lab1.Models.Type
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Видалення</title>
+</head>
+<body>
+    <h3>Ви впевненні, чи хочете видалити дане страхування</h3>
+    <div>
+        <h4>Type</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Видалити" class="btn btn-default" /> |
+                @Html.ActionLink("Назад до списку", "Index")
+            </div>
+        }
+    </div>
+</body>
+</html>

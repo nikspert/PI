@@ -1,0 +1,28 @@
+﻿@using TeamMvc4.Models
+@model Type
+@{
+    ViewBag.Title = "Details";
+}
+
+<fieldset>
+    <legend>Информація про тип страхування</legend>
+
+    <div class="display-label"><b>Назва</b></div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label"><b>Фамилия</b></div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+
+    <div class="display-label"><b>Замовлення</b></div>
+    <ul>
+        @foreach (Order c in Model.orders)
+        {
+            <li>@c.Name</li>
+        }
+    </ul>
+
+</fieldset>
