@@ -22,17 +22,20 @@ namespace lab2.Controllers
         public ActionResult Index()
         {
             return View(myClub);
-        }        public ActionResult NameAndPrice()
+        }
+        public ActionResult NameAndPrice()
         {
             return View(myClub);
-        }        public ActionResult DemoExpression()
+        }
+        public ActionResult DemoExpression()
         {
             ViewBag.PlayerCount = 9;
             ViewBag.National = true;            
             ViewBag.Foreign = false;
 
             return View(myClub);
-        }        public ActionResult DemoArray()
+        }
+        public ActionResult DemoArray()
         {
             Club[] array = {
      new Club {Name = "Kayak Madrid", Price = 275M},
@@ -41,5 +44,8 @@ namespace lab2.Controllers
      new Club {Name = "Manchester United", Price = 34.95M}
  };
             return View(array);
-        }    }
+        }
+
+
+    }
 }

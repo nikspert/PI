@@ -1,0 +1,60 @@
+﻿@model BeekeepersBlog_V2.Models.BlogPostModel
+@{
+    ViewBag.Title = Model.Title;
+    var tagIndex = 1;
+}
+
+<h4 style="font-weight: bold;">@Model.Title</h4>
+
+<img src="@Url.Content(Model.Filename.ToString())" width="120" height="120" " alt="can't dislay image" />
+<p>@Html.Raw(Model.Content.Replace("\r\n", "<br />"))</p>
+<p>Posted by &mdash;@Model.User.Email &mdash; on @Model.CreateTime.ToString("MMMM dd, yyyy 'at' hh:mm tt")</p>
+<p>
+    Tagged under:
+    @foreach (var tag in Model.Tags)
+    {
+        <span class="tag"><a href="~/blog/tag/@tag">@tag</a></span>
+     /*   if (tagIndex == Model.Tags.Count && ViewBag.Email == Model.User.Email)
+        {
+            // In the end, write the edit hyperlink
+            <span><a href="~/blog/edit/@Model.ID">Edit</a></span>
+        }
+        */
+        // Finally increment the index
+        tagIndex++;
+    }
+ 
+    @if (ViewBag.Email == Model.User.Email)
+    {
+    <span><a href="~/blog/edit/@Model.ID">Edit</a></span>
+     }
+
+</p>
+<hr />
+<form method="post">
+
+<textarea name="comment" class="form-control" placeholder="What would you like to write?" onkeyup="textcheck(this.value)"></textarea><br />
+    <input type="submit" disabled="disabled" id="AddCom" style="width: auto; font-weight: 600;" value="Add comment" /><br />
+</form>
+<hr />
+@if (Model.Coments != null)
+{
+    foreach (var comment in Model.Coments)
+    {
+        <h6>@comment.User.Email</h6>
+        <p>@comment.comentText</p>
+        <span>@comment.CreateTime</span>
+    }
+}
+
+        <script>
+            function textcheck(input) {
+                console.log(input);
+                if (input.length == 0) {
+                    document.getElementById("AddCom").disabled = true;
+                }
+                else 
+                    document.getElementById("AddCom").disabled = false;
+                
+                }
+        </script>

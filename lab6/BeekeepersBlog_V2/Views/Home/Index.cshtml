@@ -1,0 +1,68 @@
+﻿@model List<BeekeepersBlog_V2.Models.BlogPostModel>
+@{
+    /**/
+
+    ViewBag.Title = "My Blog";
+}
+
+@if (ViewBag.Message != null)
+{
+    <h4>@ViewBag.Message</h4>
+}
+
+@if (Model == null || Model.Count == 0)
+{
+    <h4>Blog empty</h4>
+    <p>Either under development, or author is busy. Visit back again later! :-)</p>
+    <a href="~/blog/create">Create new post</a>
+}
+else
+{
+    <h4>My blog</h4>
+    <p>Read my blog posts below...</p>
+    // Content is available.
+    <a href="~/blog/create">Create new post</a>
+    foreach (var post in Model)
+    {
+        int tagIndex = 1;
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="post-preview">
+                        <a href="post.html">
+                            <h2 class="post-title">
+                                <a href="~/blog/read/@post.ID">@post.Title</a>
+                                <h3 class="post-subtitle"></h3>
+                            </h2>
+                        </a>
+                        <p class="post-meta">
+                            Posted by
+                            <a href="#">Start Bootstrap</a>
+                            on September 24, 2019
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            @foreach (var tag in post.Tags)
+            {
+                if (tagIndex == post.Tags.Count)
+                {
+                    <span class="tag"><a href="~/blog/tag/@tag">@tag</a></span>
+                }
+                else
+                {
+                    <span class="tag"><a href="~/blog/tag/@tag">@tag</a></span>
+                }
+
+                tagIndex++;
+            }
+        </p>
+
+    }
+}
+
+
+
+

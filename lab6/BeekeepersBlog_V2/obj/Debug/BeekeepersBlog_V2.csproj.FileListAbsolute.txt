@@ -1,0 +1,544 @@
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csprojAssemblyReference.cache
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CoreCompileInputs.cache
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ApplicationInsights.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.pdb
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.rsp
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.rsp
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.AppContext.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Console.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Compression.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.AccessControl.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Claims.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.ValueTuple.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.rsp
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.ApplicationInsights.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Owin.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\WebGrease.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.pdb
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Helpers.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Mvc.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Optimization.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Razor.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CopyComplete
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.dll
+c:\users\rog\source\repos\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.pdb
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ApplicationInsights.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.pdb
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.rsp
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.rsp
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.AppContext.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Collections.Immutable.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Console.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Compression.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.AccessControl.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Claims.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.ValueTuple.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.rsp
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe.config
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.ApplicationInsights.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Owin.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\WebGrease.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.pdb
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Helpers.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Mvc.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Optimization.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Razor.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csprojAssemblyReference.cache
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CoreCompileInputs.cache
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CopyComplete
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.dll
+D:\Git\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.pdb
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ApplicationInsights.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.pdb
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.rsp
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.rsp
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.AppContext.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Collections.Immutable.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Console.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Compression.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.AccessControl.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Claims.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.ValueTuple.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.rsp
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe.config
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.ApplicationInsights.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Web.Infrastructure.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Owin.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\WebGrease.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.pdb
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Helpers.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Mvc.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Optimization.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Razor.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csprojAssemblyReference.cache
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CoreCompileInputs.cache
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CopyComplete
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.dll
+D:\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.pdb
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ApplicationInsights.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\BeekeepersBlog_V2.pdb
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.exe.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csc.rsp
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.exe.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\csi.rsp
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.AppContext.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Console.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Compression.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Claims.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.ValueTuple.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.exe.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\vbc.rsp
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Owin.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\WebGrease.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Newtonsoft.Json.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Helpers.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Mvc.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Optimization.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.Razor.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Web.WebPages.Razor.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Antlr3.Runtime.pdb
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\EntityFramework.SqlServer.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.AI.Web.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csprojAssemblyReference.cache
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.csproj.CopyComplete
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.dll
+C:\Users\ROG\Desktop\HPC_stud\4 курс\ASP\ASP\Blog\BeekeepersBlog_V2\BeekeepersBlog_V2\obj\Debug\BeekeepersBlog_V2.pdb
